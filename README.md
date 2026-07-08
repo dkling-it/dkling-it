@@ -12,3 +12,6 @@
 <img src="https://img.shields.io/badge/Open_to_AI%2FData%2FSWE_roles-Munich_%2F_remote--EU-39d353?style=for-the-badge&labelColor=0d1117" alt="Open to roles"/>
 
 </div>
+
+> **Senior engineer building AI-powered production systems.**
+> 20+ years across software and data engineering. Now focused on AI engineering: RAG, agentic workflows, and the data infrastructure underneath them. Based in Munich 🇩🇪.
