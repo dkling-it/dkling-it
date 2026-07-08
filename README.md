@@ -1,3 +1,8 @@
+<!--
+  GitHub Profile README for dkling-it/dkling-it.
+  Principle: real facts only. No live links until a demo is actually live.
+-->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=55&lines=Senior+Software+%26+Data+Engineer;20%2B+years+shipping+production+systems;Now+building+AI%3A+RAG+%C2%B7+Agents+%C2%B7+ML+Platforms;Unix-philosophy+%C2%B7+CLI-first+%C2%B7+Open+source" alt="What I do" />
@@ -89,3 +94,14 @@ Each project ships with a live demo, an architecture diagram, and real metrics o
 
 <a href="https://www.linkedin.com/in/dieter-kling-56b50296"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:dkling.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<!--
+Account hygiene, separate from this file:
+  - Set GitHub profile fields: Name, Bio, Location (Munich), Blog. All are currently empty.
+    Suggested bio: "Senior SWE/DE (20+ yrs), now AI engineering. RAG, agents, Munich."
+  - Unpin or archive interview-prep and throwaway repos (hello-world-*, foo, etc.) so the
+    pinned set reads as senior AI work, not practice forks.
+  - Pin real projects here as they ship; replace each status badge with a live link.
+  - OpenClaw is intentionally left out: it's a 380k-star, org-owned project, and listing
+    it here would imply authorship that isn't accurate.
+-->
