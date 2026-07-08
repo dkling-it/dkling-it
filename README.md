@@ -22,3 +22,16 @@
 - Agentic AI: multi-model orchestration, tool use, human-in-the-loop checkpoints
 - ML and data platforms: pipelines, feature stores, serving, drift monitoring
 - Developer tooling: Unix-philosophy composable CLI tools in Python and Rust
+
+## 🚀 Building in public
+
+Each project ships with a live demo, an architecture diagram, and real metrics once it's ready. Links go live only when they work: the first one already does.
+
+| # | Project | What it is | Status |
+|---|---|---|---|
+| 1 | **[RAG over the EU AI Act](https://github.com/dkling-it/rag-eu-ai-act)** | Citation-enforced RAG over the EU AI Act: hybrid dense + BM25/RRF retrieval, an offline eval harness with bootstrap CIs, FastAPI + Gradio demo | ![live](https://img.shields.io/badge/live-39d353?style=flat-square&labelColor=0d1117) |
+| 2 | **MarketFit Data Platform** | Local-first data platform: bronze/silver/gold pipeline, structured skill extraction, evidence-backed profile scoring, RAG with citations | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
+| 3 | **Job Research Brief Agent** | Human-in-the-loop LangGraph agent that researches a company and drafts a tailored application brief, pausing for approval before anything is finalized | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
+| 4 | **Volatility Forecast Platform** | Medallion-architecture platform: point-in-time feature store, volatility forecaster, FastAPI serving, drift monitoring | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
+| 5 | **Lossless Spec-Decode Bench** | LLM inference and cost engineering: KV cache, continuous batching, speculative decoding, and quantization, verified lossless via a 300k-trial Monte-Carlo | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
+| 6 | **LLM Eval Leaderboard** | LLM evals and observability: BLEU/ROUGE-L/F1/pass@k implemented from scratch with a bootstrap-CI leaderboard | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
