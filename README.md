@@ -82,3 +82,10 @@ Each project ships with a live demo, an architecture diagram, and real metrics o
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkling-it&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages"/>
 
 </div>
+
+## 📫 Reach me
+
+📍 Munich, Germany · 💼 Open to AI / Data / SWE roles (Munich / remote-EU)
+
+<a href="https://www.linkedin.com/in/dieter-kling-56b50296"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dkling.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
