@@ -15,3 +15,10 @@
 
 > **Senior engineer building AI-powered production systems.**
 > 20+ years across software and data engineering. Now focused on AI engineering: RAG, agentic workflows, and the data infrastructure underneath them. Based in Munich 🇩🇪.
+
+## 🔭 What I build
+
+- Retrieval systems: production RAG with evaluation harnesses, citation enforcement, GDPR-aware data handling
+- Agentic AI: multi-model orchestration, tool use, human-in-the-loop checkpoints
+- ML and data platforms: pipelines, feature stores, serving, drift monitoring
+- Developer tooling: Unix-philosophy composable CLI tools in Python and Rust
