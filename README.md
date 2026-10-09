@@ -28,6 +28,13 @@
 - ML and data platforms: pipelines, feature stores, serving, drift monitoring
 - Developer tooling: Unix-philosophy composable CLI tools in Python and Rust
 
+## 🧰 Tech stack
+
+**Languages:** Python · Rust · TypeScript · Scala · Java · Bash
+**AI / ML:** PyTorch · Hugging Face · LangChain · LangGraph · OpenAI / Anthropic APIs
+**Data:** Spark · Delta Lake · DuckDB · Polars · Dagster · Airflow
+**Infra:** FastAPI · Docker · PostgreSQL · Linux · Git
+
 ## 🚀 Building in public
 
 Each project ships with a live demo, an architecture diagram, and real metrics once it's ready. Links go live only when they work: the first one already does.
@@ -41,67 +48,6 @@ Each project ships with a live demo, an architecture diagram, and real metrics o
 | 5 | **Lossless Spec-Decode Bench** | LLM inference and cost engineering: KV cache, continuous batching, speculative decoding, and quantization, verified lossless via a 300k-trial Monte-Carlo | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
 | 6 | **LLM Eval Leaderboard** | LLM evals and observability: BLEU/ROUGE-L/F1/pass@k implemented from scratch with a bootstrap-CI leaderboard | ![in progress](https://img.shields.io/badge/in_progress-e3b341?style=flat-square&labelColor=0d1117) |
 
-## 🧰 Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-**Data**
-
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logo=databricks&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat-square&logo=dagster&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-
-**Infra & tooling**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dkling-it&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=dkling-it&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkling-it&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top languages"/>
-
-</div>
-
 ## 📫 Reach me
 
 📍 Munich, Germany · 💼 Open to AI / Data / SWE roles (Munich / remote-EU)
-
-<a href="https://www.linkedin.com/in/dieter-kling-56b50296"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dkling.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<!--
-Account hygiene, separate from this file:
-  - Set GitHub profile fields: Name, Bio, Location (Munich), Blog. All are currently empty.
-    Suggested bio: "Senior SWE/DE (20+ yrs), now AI engineering. RAG, agents, Munich."
-  - Unpin or archive interview-prep and throwaway repos (hello-world-*, foo, etc.) so the
-    pinned set reads as senior AI work, not practice forks.
-  - Pin real projects here as they ship; replace each status badge with a live link.
-  - OpenClaw is intentionally left out: it's a 380k-star, org-owned project, and listing
-    it here would imply authorship that isn't accurate.
--->
